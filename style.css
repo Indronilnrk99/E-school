@@ -1,0 +1,17 @@
+.nav-btn{
+    background: #21B573;
+    border-radius: 33px;
+    border: none;
+    color: white;
+    position: static;
+    width: 104px;
+height: 43px;
+left: 1201px;
+top: 25px;
+}
+h1{
+    font-weight: 900;
+}
+.container{
+    padding-bottom: 40px;
+}
